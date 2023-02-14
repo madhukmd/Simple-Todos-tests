@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.listItems {
+  display: flex;
+  align-items: center;
+  max-width: 900px;
+}
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 400;
+  flex-grow: 1;
+  /* margin: 10px; */
+}
+.button {
+  font-size: 15px;
+  background-color: transparent;
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  margin-left: 20px;
+  padding: 5px 15px;
+  border-radius: 7px;
+  outline: none;
+  cursor: pointer;
+}
